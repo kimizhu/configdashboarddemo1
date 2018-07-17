@@ -40,7 +40,7 @@
     ],
     "globalMetadata": {
       "breadcrumb_path": "/configdashboarddemo1/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
+      "extendBreadcrumb": false,
       "feedback_system": "None"
     }
   }
